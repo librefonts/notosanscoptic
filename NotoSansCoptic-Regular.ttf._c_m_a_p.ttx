@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0x14b" name="eng"/><!-- LATIN SMALL LETTER ENG -->
+      <map code="0x1c1" name="uni01C1"/><!-- LATIN LETTER LATERAL CLICK -->
+      <map code="0x251" name="uni0251"/><!-- LATIN SMALL LETTER ALPHA -->
+      <map code="0x254" name="uni0254"/><!-- LATIN SMALL LETTER OPEN O -->
+      <map code="0x259" name="uni0259"/><!-- LATIN SMALL LETTER SCHWA -->
+      <map code="0x25b" name="uni025B"/><!-- LATIN SMALL LETTER OPEN E -->
+      <map code="0x25f" name="uni025F"/><!-- LATIN SMALL LETTER DOTLESS J WITH STROKE -->
+      <map code="0x261" name="uni0261"/><!-- LATIN SMALL LETTER SCRIPT G -->
+      <map code="0x272" name="uni0272"/><!-- LATIN SMALL LETTER N WITH LEFT HOOK -->
+      <map code="0x27e" name="uni027E"/><!-- LATIN SMALL LETTER R WITH FISHHOOK -->
+      <map code="0x283" name="uni0283"/><!-- LATIN SMALL LETTER ESH -->
+      <map code="0x292" name="uni0292"/><!-- LATIN SMALL LETTER EZH -->
+      <map code="0x2a4" name="uni02A4"/><!-- LATIN SMALL LETTER DEZH DIGRAPH -->
+      <map code="0x2a7" name="uni02A7"/><!-- LATIN SMALL LETTER TESH DIGRAPH -->
+      <map code="0x2c7" name="caron"/><!-- CARON -->
+      <map code="0x2d0" name="uni02D0"/><!-- MODIFIER LETTER TRIANGULAR COLON -->
+      <map code="0x2d8" name="breve"/><!-- BREVE -->
+      <map code="0x2d9" name="dotaccent"/><!-- DOT ABOVE -->
+      <map code="0x2da" name="ring"/><!-- RING ABOVE -->
+      <map code="0x2db" name="ogonek"/><!-- OGONEK -->
+      <map code="0x2dd" name="hungarumlaut"/><!-- DOUBLE ACUTE ACCENT -->
+      <map code="0x300" name="gravecomb"/><!-- COMBINING GRAVE ACCENT -->
+      <map code="0x301" name="acutecomb"/><!-- COMBINING ACUTE ACCENT -->
+      <map code="0x302" name="uni0302"/><!-- COMBINING CIRCUMFLEX ACCENT -->
+      <map code="0x304" name="uni0304"/><!-- COMBINING MACRON -->
+      <map code="0x305" name="uni0305"/><!-- COMBINING OVERLINE -->
+      <map code="0x307" name="uni0307"/><!-- COMBINING DOT ABOVE -->
+      <map code="0x308" name="uni0308"/><!-- COMBINING DIAERESIS -->
+      <map code="0x323" name="dotbelowcomb"/><!-- COMBINING DOT BELOW -->
+      <map code="0x33f" name="uni033F"/><!-- COMBINING DOUBLE OVERLINE -->
+      <map code="0x361" name="uni1DCD"/><!-- COMBINING DOUBLE INVERTED BREVE -->
+      <map code="0x3e2" name="uni03E2"/><!-- COPTIC CAPITAL LETTER SHEI -->
+      <map code="0x3e3" name="uni03E3"/><!-- COPTIC SMALL LETTER SHEI -->
+      <map code="0x3e4" name="uni03E4"/><!-- COPTIC CAPITAL LETTER FEI -->
+      <map code="0x3e5" name="uni03E5"/><!-- COPTIC SMALL LETTER FEI -->
+      <map code="0x3e6" name="uni03E6"/><!-- COPTIC CAPITAL LETTER KHEI -->
+      <map code="0x3e7" name="uni03E7"/><!-- COPTIC SMALL LETTER KHEI -->
+      <map code="0x3e8" name="uni03E8"/><!-- COPTIC CAPITAL LETTER HORI -->
+      <map code="0x3e9" name="uni03E9"/><!-- COPTIC SMALL LETTER HORI -->
+      <map code="0x3ea" name="uni03EA"/><!-- COPTIC CAPITAL LETTER GANGIA -->
+      <map code="0x3eb" name="uni03EB"/><!-- COPTIC SMALL LETTER GANGIA -->
+      <map code="0x3ec" name="uni03EC"/><!-- COPTIC CAPITAL LETTER SHIMA -->
+      <map code="0x3ed" name="uni03ED"/><!-- COPTIC SMALL LETTER SHIMA -->
+      <map code="0x3ee" name="uni03EE"/><!-- COPTIC CAPITAL LETTER DEI -->
+      <map code="0x3ef" name="uni03EF"/><!-- COPTIC SMALL LETTER DEI -->
+      <map code="0x1dcd" name="uni1DCD"/><!-- COMBINING DOUBLE CIRCUMFLEX ABOVE -->
+      <map code="0x2c80" name="uni2C80"/><!-- COPTIC CAPITAL LETTER ALFA -->
+      <map code="0x2c81" name="uni2C81"/><!-- COPTIC SMALL LETTER ALFA -->
+      <map code="0x2c82" name="uni2C82"/><!-- COPTIC CAPITAL LETTER VIDA -->
+      <map code="0x2c83" name="uni2C83"/><!-- COPTIC SMALL LETTER VIDA -->
+      <map code="0x2c84" name="uni2C84"/><!-- COPTIC CAPITAL LETTER GAMMA -->
+      <map code="0x2c85" name="uni2C85"/><!-- COPTIC SMALL LETTER GAMMA -->
+      <map code="0x2c86" name="uni2C86"/><!-- COPTIC CAPITAL LETTER DALDA -->
+      <map code="0x2c87" name="uni2C87"/><!-- COPTIC SMALL LETTER DALDA -->
+      <map code="0x2c88" name="uni2C88"/><!-- COPTIC CAPITAL LETTER EIE -->
+      <map code="0x2c89" name="uni2C89"/><!-- COPTIC SMALL LETTER EIE -->
+      <map code="0x2c8a" name="uni2C8A"/><!-- COPTIC CAPITAL LETTER SOU -->
+      <map code="0x2c8b" name="uni2C8B"/><!-- COPTIC SMALL LETTER SOU -->
+      <map code="0x2c8c" name="uni2C8C"/><!-- COPTIC CAPITAL LETTER ZATA -->
+      <map code="0x2c8d" name="uni2C8D"/><!-- COPTIC SMALL LETTER ZATA -->
+      <map code="0x2c8e" name="uni2C8E"/><!-- COPTIC CAPITAL LETTER HATE -->
+      <map code="0x2c8f" name="uni2C8F"/><!-- COPTIC SMALL LETTER HATE -->
+      <map code="0x2c90" name="uni2C90"/><!-- COPTIC CAPITAL LETTER THETHE -->
+      <map code="0x2c91" name="uni2C91"/><!-- COPTIC SMALL LETTER THETHE -->
+      <map code="0x2c92" name="uni2C92"/><!-- COPTIC CAPITAL LETTER IAUDA -->
+      <map code="0x2c93" name="uni2C93"/><!-- COPTIC SMALL LETTER IAUDA -->
+      <map code="0x2c94" name="uni2C94"/><!-- COPTIC CAPITAL LETTER KAPA -->
+      <map code="0x2c95" name="uni2C95"/><!-- COPTIC SMALL LETTER KAPA -->
+      <map code="0x2c96" name="uni2C96"/><!-- COPTIC CAPITAL LETTER LAULA -->
+      <map code="0x2c97" name="uni2C97"/><!-- COPTIC SMALL LETTER LAULA -->
+      <map code="0x2c98" name="uni2C98"/><!-- COPTIC CAPITAL LETTER MI -->
+      <map code="0x2c99" name="uni2C99"/><!-- COPTIC SMALL LETTER MI -->
+      <map code="0x2c9a" name="uni2C9A"/><!-- COPTIC CAPITAL LETTER NI -->
+      <map code="0x2c9b" name="uni2C9B"/><!-- COPTIC SMALL LETTER NI -->
+      <map code="0x2c9c" name="uni2C9C"/><!-- COPTIC CAPITAL LETTER KSI -->
+      <map code="0x2c9d" name="uni2C9D"/><!-- COPTIC SMALL LETTER KSI -->
+      <map code="0x2c9e" name="uni2C9E"/><!-- COPTIC CAPITAL LETTER O -->
+      <map code="0x2c9f" name="uni2C9F"/><!-- COPTIC SMALL LETTER O -->
+      <map code="0x2ca0" name="uni2CA0"/><!-- COPTIC CAPITAL LETTER PI -->
+      <map code="0x2ca1" name="uni2CA1"/><!-- COPTIC SMALL LETTER PI -->
+      <map code="0x2ca2" name="uni2CA2"/><!-- COPTIC CAPITAL LETTER RO -->
+      <map code="0x2ca3" name="uni2CA3"/><!-- COPTIC SMALL LETTER RO -->
+      <map code="0x2ca4" name="uni2CA4"/><!-- COPTIC CAPITAL LETTER SIMA -->
+      <map code="0x2ca5" name="uni2CA5"/><!-- COPTIC SMALL LETTER SIMA -->
+      <map code="0x2ca6" name="uni2CA6"/><!-- COPTIC CAPITAL LETTER TAU -->
+      <map code="0x2ca7" name="uni2CA7"/><!-- COPTIC SMALL LETTER TAU -->
+      <map code="0x2ca8" name="uni2CA8"/><!-- COPTIC CAPITAL LETTER UA -->
+      <map code="0x2ca9" name="uni2CA9"/><!-- COPTIC SMALL LETTER UA -->
+      <map code="0x2caa" name="uni2CAA"/><!-- COPTIC CAPITAL LETTER FI -->
+      <map code="0x2cab" name="uni2CAB"/><!-- COPTIC SMALL LETTER FI -->
+      <map code="0x2cac" name="uni2CAC"/><!-- COPTIC CAPITAL LETTER KHI -->
+      <map code="0x2cad" name="uni2CAD"/><!-- COPTIC SMALL LETTER KHI -->
+      <map code="0x2cae" name="uni2CAE"/><!-- COPTIC CAPITAL LETTER PSI -->
+      <map code="0x2caf" name="uni2CAF"/><!-- COPTIC SMALL LETTER PSI -->
+      <map code="0x2cb0" name="uni2CB0"/><!-- COPTIC CAPITAL LETTER OOU -->
+      <map code="0x2cb1" name="uni2CB1"/><!-- COPTIC SMALL LETTER OOU -->
+      <map code="0x2cb2" name="uni2CB2"/><!-- COPTIC CAPITAL LETTER DIALECT-P ALEF -->
+      <map code="0x2cb3" name="uni2CB3"/><!-- COPTIC SMALL LETTER DIALECT-P ALEF -->
+      <map code="0x2cb4" name="uni2CB4"/><!-- COPTIC CAPITAL LETTER OLD COPTIC AIN -->
+      <map code="0x2cb5" name="uni2CB5"/><!-- COPTIC SMALL LETTER OLD COPTIC AIN -->
+      <map code="0x2cb6" name="uni2CB6"/><!-- COPTIC CAPITAL LETTER CRYPTOGRAMMIC EIE -->
+      <map code="0x2cb7" name="uni2CB7"/><!-- COPTIC SMALL LETTER CRYPTOGRAMMIC EIE -->
+      <map code="0x2cb8" name="uni2CB8"/><!-- COPTIC CAPITAL LETTER DIALECT-P KAPA -->
+      <map code="0x2cb9" name="uni2CB9"/><!-- COPTIC SMALL LETTER DIALECT-P KAPA -->
+      <map code="0x2cba" name="uni2CBA"/><!-- COPTIC CAPITAL LETTER DIALECT-P NI -->
+      <map code="0x2cbb" name="uni2CBB"/><!-- COPTIC SMALL LETTER DIALECT-P NI -->
+      <map code="0x2cbc" name="uni2CBC"/><!-- COPTIC CAPITAL LETTER CRYPTOGRAMMIC NI -->
+      <map code="0x2cbd" name="uni2CBD"/><!-- COPTIC SMALL LETTER CRYPTOGRAMMIC NI -->
+      <map code="0x2cbe" name="uni2CBE"/><!-- COPTIC CAPITAL LETTER OLD COPTIC OOU -->
+      <map code="0x2cbf" name="uni2CBF"/><!-- COPTIC SMALL LETTER OLD COPTIC OOU -->
+      <map code="0x2cc0" name="uni2CC0"/><!-- COPTIC CAPITAL LETTER SAMPI -->
+      <map code="0x2cc1" name="uni2CC1"/><!-- COPTIC SMALL LETTER SAMPI -->
+      <map code="0x2cc2" name="uni2CC2"/><!-- COPTIC CAPITAL LETTER CROSSED SHEI -->
+      <map code="0x2cc3" name="uni2CC3"/><!-- COPTIC SMALL LETTER CROSSED SHEI -->
+      <map code="0x2cc4" name="uni2CC4"/><!-- COPTIC CAPITAL LETTER OLD COPTIC SHEI -->
+      <map code="0x2cc5" name="uni2CC5"/><!-- COPTIC SMALL LETTER OLD COPTIC SHEI -->
+      <map code="0x2cc6" name="uni2CC6"/><!-- COPTIC CAPITAL LETTER OLD COPTIC ESH -->
+      <map code="0x2cc7" name="uni2CC7"/><!-- COPTIC SMALL LETTER OLD COPTIC ESH -->
+      <map code="0x2cc8" name="uni2CC8"/><!-- COPTIC CAPITAL LETTER AKHMIMIC KHEI -->
+      <map code="0x2cc9" name="uni2CC9"/><!-- COPTIC SMALL LETTER AKHMIMIC KHEI -->
+      <map code="0x2cca" name="uni2CCA"/><!-- COPTIC CAPITAL LETTER DIALECT-P HORI -->
+      <map code="0x2ccb" name="uni2CCB"/><!-- COPTIC SMALL LETTER DIALECT-P HORI -->
+      <map code="0x2ccc" name="uni2CCC"/><!-- COPTIC CAPITAL LETTER OLD COPTIC HORI -->
+      <map code="0x2ccd" name="uni2CCD"/><!-- COPTIC SMALL LETTER OLD COPTIC HORI -->
+      <map code="0x2cce" name="uni2CCE"/><!-- COPTIC CAPITAL LETTER OLD COPTIC HA -->
+      <map code="0x2ccf" name="uni2CCF"/><!-- COPTIC SMALL LETTER OLD COPTIC HA -->
+      <map code="0x2cd0" name="uni2CD0"/><!-- COPTIC CAPITAL LETTER L-SHAPED HA -->
+      <map code="0x2cd1" name="uni2CD1"/><!-- COPTIC SMALL LETTER L-SHAPED HA -->
+      <map code="0x2cd2" name="uni2CD2"/><!-- COPTIC CAPITAL LETTER OLD COPTIC HEI -->
+      <map code="0x2cd3" name="uni2CD3"/><!-- COPTIC SMALL LETTER OLD COPTIC HEI -->
+      <map code="0x2cd4" name="uni2CD4"/><!-- COPTIC CAPITAL LETTER OLD COPTIC HAT -->
+      <map code="0x2cd5" name="uni2CD5"/><!-- COPTIC SMALL LETTER OLD COPTIC HAT -->
+      <map code="0x2cd6" name="uni2CD6"/><!-- COPTIC CAPITAL LETTER OLD COPTIC GANGIA -->
+      <map code="0x2cd7" name="uni2CD7"/><!-- COPTIC SMALL LETTER OLD COPTIC GANGIA -->
+      <map code="0x2cd8" name="uni2CD8"/><!-- COPTIC CAPITAL LETTER OLD COPTIC DJA -->
+      <map code="0x2cd9" name="uni2CD9"/><!-- COPTIC SMALL LETTER OLD COPTIC DJA -->
+      <map code="0x2cda" name="uni2CDA"/><!-- COPTIC CAPITAL LETTER OLD COPTIC SHIMA -->
+      <map code="0x2cdb" name="uni2CDB"/><!-- COPTIC SMALL LETTER OLD COPTIC SHIMA -->
+      <map code="0x2cdc" name="uni2CDC"/><!-- COPTIC CAPITAL LETTER OLD NUBIAN SHIMA -->
+      <map code="0x2cdd" name="uni2CDD"/><!-- COPTIC SMALL LETTER OLD NUBIAN SHIMA -->
+      <map code="0x2cde" name="uni2CDE"/><!-- COPTIC CAPITAL LETTER OLD NUBIAN NGI -->
+      <map code="0x2cdf" name="uni2CDF"/><!-- COPTIC SMALL LETTER OLD NUBIAN NGI -->
+      <map code="0x2ce0" name="uni2CE0"/><!-- COPTIC CAPITAL LETTER OLD NUBIAN NYI -->
+      <map code="0x2ce1" name="uni2CE1"/><!-- COPTIC SMALL LETTER OLD NUBIAN NYI -->
+      <map code="0x2ce2" name="uni2CE2"/><!-- COPTIC CAPITAL LETTER OLD NUBIAN WAU -->
+      <map code="0x2ce3" name="uni2CE3"/><!-- COPTIC SMALL LETTER OLD NUBIAN WAU -->
+      <map code="0x2ce4" name="uni2CE4"/><!-- COPTIC SYMBOL KAI -->
+      <map code="0x2ce5" name="uni2CE5"/><!-- COPTIC SYMBOL MI RO -->
+      <map code="0x2ce6" name="uni2CE6"/><!-- COPTIC SYMBOL PI RO -->
+      <map code="0x2ce7" name="uni2CE7"/><!-- COPTIC SYMBOL STAUROS -->
+      <map code="0x2ce8" name="uni2CE8"/><!-- COPTIC SYMBOL TAU RO -->
+      <map code="0x2ce9" name="uni2CE9"/><!-- COPTIC SYMBOL KHI RO -->
+      <map code="0x2cea" name="uni2CEA"/><!-- COPTIC SYMBOL SHIMA SIMA -->
+      <map code="0x2ceb" name="uni2CEB"/><!-- COPTIC CAPITAL LETTER CRYPTOGRAMMIC SHEI -->
+      <map code="0x2cec" name="uni2CEC"/><!-- COPTIC SMALL LETTER CRYPTOGRAMMIC SHEI -->
+      <map code="0x2ced" name="uni2CED"/><!-- COPTIC CAPITAL LETTER CRYPTOGRAMMIC GANGIA -->
+      <map code="0x2cee" name="uni2CEE"/><!-- COPTIC SMALL LETTER CRYPTOGRAMMIC GANGIA -->
+      <map code="0x2cef" name="uni2CEF"/><!-- COPTIC COMBINING NI ABOVE -->
+      <map code="0x2cf0" name="uni2CF0"/><!-- COPTIC COMBINING SPIRITUS ASPER -->
+      <map code="0x2cf1" name="uni2CF1"/><!-- COPTIC COMBINING SPIRITUS LENIS -->
+      <map code="0x2cf2" name="uni2CF2"/><!-- ???? -->
+      <map code="0x2cf3" name="uni2CF3"/><!-- ???? -->
+      <map code="0x2cf9" name="uni2CF9"/><!-- COPTIC OLD NUBIAN FULL STOP -->
+      <map code="0x2cfa" name="uni2CFA"/><!-- COPTIC OLD NUBIAN DIRECT QUESTION MARK -->
+      <map code="0x2cfb" name="uni2CFB"/><!-- COPTIC OLD NUBIAN INDIRECT QUESTION MARK -->
+      <map code="0x2cfc" name="uni2CFC"/><!-- COPTIC OLD NUBIAN VERSE DIVIDER -->
+      <map code="0x2cfd" name="uni2CFD"/><!-- COPTIC FRACTION ONE HALF -->
+      <map code="0x2cfe" name="uni2CFE"/><!-- COPTIC FULL STOP -->
+      <map code="0x2cff" name="uni2CFF"/><!-- COPTIC MORPHOLOGICAL DIVIDER -->
+      <map code="0xfe24" name="uniFE24"/><!-- COMBINING MACRON LEFT HALF -->
+      <map code="0xfe25" name="uniFE25"/><!-- COMBINING MACRON RIGHT HALF -->
+      <map code="0xfe26" name="uniFE26"/><!-- COMBINING CONJOINING MACRON -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+  </cmap>
+
+</ttFont>
