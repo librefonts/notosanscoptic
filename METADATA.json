@@ -1,0 +1,24 @@
+{
+  "name": "Noto Sans Coptic",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 16276,
+  "fonts": [
+    {
+      "name": "Noto Sans Coptic",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansCoptic-Regular.ttf",
+      "postScriptName": "NotoSansCoptic",
+      "fullName": "Noto Sans Coptic",
+      "copyright": "Copyright 2013 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
